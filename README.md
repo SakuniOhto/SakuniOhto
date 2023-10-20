@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Sakuni Ohto!  
 
   
-<img src="https://lanyard-profile-readme.vercel.app/api/715564746950180926" align="left" style="width: 100%" />
+<img src="https://lanyard-profile-readme.vercel.app/api/715564746950180926" align="left" style="width: 80%" />
   
 
 <a href="https://github.com/rishavanand" target="_blank">
@@ -30,7 +30,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/564x/6a/63/bd/6a63bd89d766dad16166a68611317464.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/564x/8e/3e/fc/8e3efc7c6c7999bcb1e502dd84fcb667.jpg" align="center" style="width: 100%" />
 </div>  
 
 
