@@ -1,8 +1,5 @@
 ## Hey 👋, I'm Sakuni Ohto!  
 
-  
-<img src="https://lanyard-profile-readme.vercel.app/api/715564746950180926" align="left" style="width: 100%" />
-  
 
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
