@@ -41,7 +41,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakuniOhto&hide_border=true&layout=donut" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-nine-kappa-29.vercel.app/api/top-langs/?username=SakuniOhto&hide_border=true&layout=donut" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -55,9 +55,3 @@
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
