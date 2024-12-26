@@ -1,11 +1,15 @@
 <h2 align="center">Hi 👋! I am Sakuni and I'm a discord bots developer</h2>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats-nine-kappa-29.vercel.app/api?username=SakuniOhto&show_icons=true&count_private=true&hide_border=false&rank_icon=github&include_all_commits=true&theme=discord_old_blurple" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakuniOhto&locale=en&hide_title=false&card_width=320&theme=discord_old_blurple&hide_border=false&count_private=true" height="200" alt="languages graph"  />
+</div>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-stats-nine-kappa-29.vercel.app/api?username=SakuniOhto&show_icons=true&count_private=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=discord_old_blurple" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=SakuniOhto&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakuniOhto&locale=en&hide_title=false&card_width=320&theme=discord_old_blurple&hide_border=false&count_private=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -56,6 +60,20 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SakuniOhto/SakuniOhto/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img align="center" src = "https://lanyard.kyrie25.dev/api/715564746950180926?useDisplayName=true&gradient=A8F1FF-76E5FF-4FCEFD-34C2F3&showBanner=animated&bannerFilter=blur(1px)" alt="discord profile" height= 200 />
+</div>
 
 ###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakuniOhto/SakuniOhto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakuniOhto/SakuniOhto/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SakuniOhto/SakuniOhto/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
+
+![](https://komarev.com/ghpvc/?username=SakuniOhto&style=flat)
