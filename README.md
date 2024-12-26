@@ -3,7 +3,7 @@
 ###
 <div align="center">
   <img src="https://github-readme-stats-nine-kappa-29.vercel.app/api?username=SakuniOhto&show_icons=true&count_private=true&hide_border=false&rank_icon=github&include_all_commits=true&theme=discord_old_blurple" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SakuniOhto&locale=en&hide_title=false&card_width=320&theme=discord_old_blurple&hide_border=false&count_private=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats-nine-kappa-29.vercel.app/api/top-langs?username=SakuniOhto&locale=en&hide_title=false&card_width=320&theme=discord_old_blurple&hide_border=false&count_private=true" height="200" alt="languages graph"  />
 </div>
 
 ###
