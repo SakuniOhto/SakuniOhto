@@ -61,7 +61,7 @@
 <br clear="both">
 
 <div align="center">
-  <img align="center" src = "https://lanyard.kyrie25.dev/api/715564746950180926?useDisplayName=true&gradient=A8F1FF-76E5FF-4FCEFD-34C2F3&showBanner=animated&bannerFilter=blur(1px)" alt="discord profile" height= 200 />
+  <img align="center" src = "https://lanyard.kyrie25.dev/api/715564746950180926?useDisplayName=true&gradient=A8F1FF-76E5FF-4FCEFD-34C2F3&showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)" alt="discord profile" height= 200 />
 </div>
 
 ###
