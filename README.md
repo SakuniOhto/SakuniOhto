@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Sakuni and I'm a discord bots developer</h2>
+<h2 align="center">Hi 👋! I am Sakuni and I'm a discord bot developer</h2>
 
 ###
 <div align="center">
