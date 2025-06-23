@@ -60,14 +60,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img align="center" src = "https://lanyard.kyrie25.dev/api/715564746950180926?useDisplayName=true&gradient=A8F1FF-76E5FF-4FCEFD-34C2F3&showBanner=animated&waveColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)" alt="discord profile" height= 200 />
-</div>
-
-###
-
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakuniOhto/SakuniOhto/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SakuniOhto/SakuniOhto/output/github-contribution-grid-snake.svg">
